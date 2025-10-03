@@ -1,11 +1,6 @@
 Add and remove users
 change the roles
-
-
 testing it
-
 developing it
-
-
 deploying it
 
